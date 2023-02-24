@@ -10,4 +10,3 @@ const CTA = () => {
 }
 
 export default CTA
-CTA
